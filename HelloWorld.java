@@ -11,7 +11,7 @@ public class HelloWorld {                                                       
       
 /*
 
-PETUNJUK
+PETUNJUK RUNNING CODE
 1. nama file yang ada di public class akan otomatis dibuatkan oleh IntelijIDEA
 2. nama kelas di java tidak boleh mengandung spasi (pake Camel case)
 3. kalo nama class biasanya ditulis dengan huruf besar
