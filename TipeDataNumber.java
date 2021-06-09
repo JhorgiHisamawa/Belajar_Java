@@ -1,5 +1,5 @@
 /*
-
+PENJELASAN
 Integer number = bilangan bulat
 Floating point number = bilangan pecahan / desimal
 
@@ -26,6 +26,7 @@ long NamaVariabel2 = 397678688L ; //<========= bisa ditambahkan L di depan angka
 }
 
 /*
+PENJELASAN
 Tipe data Float:
 float       : 3,4e-038 sampai 3,42+038 (4 byte)
 double      : 1.7e-308 sampai 1.7e+308 (8 byte)
@@ -44,6 +45,7 @@ double NamaVariabel = 10.10 ; // ini angkanya sama namun tipe datanya berbeda
 }
 
 /*
+PENJELASAN
 Tipe data literals number:
 int decimalint = 25
 int hexInt = 0xA123B              bilangan pecahan 16 (0 sampai 9 A sampai F) (harus ada "0x")
@@ -63,7 +65,7 @@ int NamaVariabel = 0b0432 ; //ini akan error karena ada angka selain 1 dan 0
 }
 
 /*
-
+PENJELASAN
 Tipe data number dengan underscore:
 long NumberName = 1_000_000_000L
 int NumberName = 60_000_000
