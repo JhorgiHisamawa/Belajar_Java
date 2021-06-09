@@ -5,7 +5,7 @@ Narrowing Casting = konversi manual yaitu:
 double-float-long-int-short-byte
 */
 
-class KonversiTipeDataNumber {
+public class KonversiTipeDataNumber {
   public static void main(String[] args) {
     
     byte NamaVariabelByte = 10 ;
