@@ -43,5 +43,22 @@ public class Variabel {
         }
 }
 
+/* 
+KATA KUNCI FINAL
+1. Secara default, variabel di Java bisa diubah-ubah nilainya
+2. Jika ingin nilai data di vaiabel tidak bisa diubah setelah dibuat bisa menggunakan kata kunci final
+3. Kata kunci ini banyak yang menyebutnya konstan sperti const di javascript
+*/
+
+public class Variabel {
+  public static void main(String[] args) {
+    
+    final String NamaVariabel = " ini value " ;
+    NamaVariabel = " ini value baru " //ini error (cannot assign a value to final variable NamaVariabel
+      
+   //jadi intinya kita gabisa re-assign atau mengubah valuenya kalau memakai kata kunci final
+    }
+}
+    
     
     
