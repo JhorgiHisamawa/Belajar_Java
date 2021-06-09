@@ -37,8 +37,9 @@ nilai default = 0,0 (kalau tidak diisi)
 public class TipeDataNumber {
   public static void main (String[] args) {
     
-float NamaVariabel = 10.10F //pake titik dan huruf F
-double NamaVariabel = 10.10 // ini angkanya sama namun tipe datanya berbeda
+float NamaVariabel = 10.10F ; //pake titik dan huruf F
+double NamaVariabel = 10.10 ; // ini angkanya sama namun tipe datanya berbeda
+    
     }
 }
 
@@ -62,19 +63,22 @@ int NamaVariabel = 0b0432 ; //ini akan error karena ada angka selain 1 dan 0
 }
 
 /*
+
 Tipe data number dengan underscore:
 long NumberName = 1_000_000_000L
 int NumberName = 60_000_000
 
 nb : posisi underscore terserah , dan biasanya digunakan untuk memisah angka
 ini ga wajib
+
 */
 
 public class TipeDataNumber {
   public static void main(String[] args) {
     long NumberName = 1_000_000_000L ;
     int NumberName = 60_000_000 ;
-  }
+    
+      }
 }
 
 
